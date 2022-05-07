@@ -112,11 +112,11 @@ object-fit: cover;
 
 
 
-.container {
+
   .container {
   /*  min-width: 500px; */
   margin: auto;
-
+}
 
 footer div {
   height: 100%;
